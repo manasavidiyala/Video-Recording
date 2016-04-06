@@ -1,0 +1,17 @@
+{
+  "name": "video-uploader-mahi",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.6",
+    "binaryjs": "0.2.1"
+  },
+  "description": "A while back, if you wanted to stream binary data via JavaScript - such as audio/video content, you'd be sore out of luck :(",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "mahima srikanta",
+  "license": "ISC"
+}
